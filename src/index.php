@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <!-- Do not touch this file.
-         Use /src/index.html instead. -->
+    <!-- Your code goes here -->
 </body>
 </html>
